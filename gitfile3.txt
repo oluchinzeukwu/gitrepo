@@ -1,0 +1,10 @@
+list of political parties:
+LP
+APC
+PDP
+ACCORD
+NNPP
+APGA
+YPP
+SDP
+AC
